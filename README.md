@@ -1,5 +1,7 @@
 ### Sobre Mim
 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 Olá! Meu nome é Gustavo Sanches Pavani, e sou um entusiasta programador apaixonado por desenvolver código. Estou em uma jornada para aprender várias linguagens de programação e aprimorar as que já tenho conhecimento.
 
 #### Interesses
