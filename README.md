@@ -20,7 +20,7 @@ Olá! Meu nome é Gustavo Sanches Pavani, e sou um programador apaixonado por de
 
 ## Educação
 
-- **Bacharelado em Análise e Desenvolvimento de Sistemas na FATEC - Praia Grande**
+- **Cursando Bacharelado em Análise e Desenvolvimento de Sistemas na FATEC - Praia Grande**
   - *04/02/2022*
 
 - **Técnico em Análise e Desenvolvimento de Sistemas na Etec - Itanhaém**
