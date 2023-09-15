@@ -10,7 +10,7 @@ Olá! Meu nome é Gustavo Sanches Pavani, e sou um programador apaixonado por de
 
 ### Tecnologias Favoritas
 
-- C#  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="25" height="50"/>
+- C#  
 - C++
 - PHP
 
