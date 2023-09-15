@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá! Meu nome é Gustavo Sanches Pavani, e sou um entusiasta programador apaixonado por desenvolver código. Estou em uma jornada para aprender várias linguagens de programação e aprimorar as que já tenho conhecimento.
+Olá! Meu nome é Gustavo Sanches Pavani, e sou um programador apaixonado por desenvolver código. Estou em uma jornada para aprender várias linguagens de programação e aprimorar as que já tenho conhecimento.
 
 ### Interesses
 
