@@ -1,16 +1,23 @@
-### Hi there 👋
+### Sobre Mim
 
-<!--
-**GustavoSanchesPavani/GustavoSanchesPavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Gustavo Sanches Pavani, e sou um entusiasta programador apaixonado por desenvolver código. Estou em uma jornada para aprender várias linguagens de programação e aprimorar as que já tenho conhecimento.
 
-Here are some ideas to get you started:
+#### Interesses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Desenvolvimento de software
+- Aprendizado de novas linguagens de programação
+- Melhorar habilidades em linguagens já conhecidas
+
+#### Tecnologias Favoritas
+
+- C#
+- C++
+- PHP
+
+#### Educação
+
+- Cursando Bacharelado em Análise e Desenvolvimento de Sistemas na FATEC - Praia Grande
+- Técnico em Análise e Desenvolvimento de Sistemas pela Etec - Itanhaém
+- Técnico em Jogos Digitais pela Etec - Peruíbe
+
+
