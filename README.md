@@ -73,6 +73,6 @@
   <h2>Contatos</h2>
   <div>
     <a href="mailto:gus257.gu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="[https://www.linkedin.com/in/gustavosanchespavani](https://www.linkedin.com/in/gustavo-sanches-pavani-18bb4a24a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gustavo-sanches-pavani-18bb4a24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
 </section>
