@@ -185,12 +185,12 @@ _"Programar é no mínimo tão difícil quanto desenvolver uma teoria matemátic
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=GustavoSanchesPavani&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoSanchesPavani&theme=radical"/>
 
-<img src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=GustavoSanchesPavani&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoSanchesPavani&theme=radical"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoSanchesPavani&theme=radical"/>
 
-<img src="https://github-profile-summary-cards.vercel. app/api/cards/stats? username=GustavoSanchesPavani&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoSanchesPavani&theme=radical"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoSanchesPavani&theme=radical&utcOffset=-3"/>
 
 </div>
