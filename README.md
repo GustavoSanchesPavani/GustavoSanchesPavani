@@ -14,9 +14,7 @@
 <div align="center">
   
   ![Visitantes](https://api.visitorbadge.io/api/visitors?path=GustavoSanchesPavani&label=Visitantes&labelColor=%23007ec6&countColor=%23263759)
-  ![Anos](https://badges.pufler.dev/years/GustavoSanchesPavani)
-  ![Repositórios](https://badges.pufler.dev/repos/GustavoSanchesPavani)
-  ![Commits](https://badges.pufler.dev/commits/monthly/GustavoSanchesPavani)
+  ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=GustavoSanchesPavani&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil)
   
 </div>
 
@@ -113,8 +111,8 @@ hobbies:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSanchesPavani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSanchesPavani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GustavoSanchesPavani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GustavoSanchesPavani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
@@ -185,12 +183,12 @@ _"Programar é no mínimo tão difícil quanto desenvolver uma teoria matemátic
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=GustavoSanchesPavani&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoSanchesPavani&theme=radical"/>
 
-<img src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=GustavoSanchesPavani&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoSanchesPavani&theme=radical"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoSanchesPavani&theme=radical"/>
 
-<img src="https://github-profile-summary-cards.vercel. app/api/cards/stats? username=GustavoSanchesPavani&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoSanchesPavani&theme=radical"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoSanchesPavani&theme=radical&utcOffset=-3"/>
 
 </div>
