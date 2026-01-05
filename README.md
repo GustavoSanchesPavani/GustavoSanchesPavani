@@ -110,13 +110,6 @@ hobbies:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSanchesPavani&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSanchesPavani&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoSanchesPavani&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
@@ -130,22 +123,6 @@ hobbies:
 </div>
 
 ---
-
-<div align="center">
-
-## 🏆 Troféus do GitHub
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=GustavoSanchesPavani&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 📫 Conecte-se Comigo
 
