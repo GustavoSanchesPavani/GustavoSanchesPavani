@@ -175,7 +175,7 @@ _"Programar é no mínimo tão difícil quanto desenvolver uma teoria matemátic
 
 ### 🐍 Veja minhas contribuições sendo devoradas pela cobrinha!  
 
-<img src="https://raw.githubusercontent.com/GustavoSanchesPavani/GustavoSanchesPavani/output/github-contribution-grid-snake-dark.svg"/>
+![snake gif](https://github.com/GustavoSanchesPavani/GustavoSanchesPavani/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
