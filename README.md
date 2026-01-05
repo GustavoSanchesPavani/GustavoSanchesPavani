@@ -14,9 +14,6 @@
 <div align="center">
   
   ![Visitantes](https://api.visitorbadge.io/api/visitors?path=GustavoSanchesPavani&label=Visitantes&labelColor=%23007ec6&countColor=%23263759)
-  ![Anos](https://badges.pufler.dev/years/GustavoSanchesPavani)
-  ![Repositórios](https://badges.pufler.dev/repos/GustavoSanchesPavani)
-  ![Commits](https://badges.pufler.dev/commits/monthly/GustavoSanchesPavani)
   
 </div>
 
