@@ -13,8 +13,7 @@
 
 <div align="center">
   
-  ![Visitantes](https://api.visitorbadge.io/api/visitors?path=GustavoSanchesPavani&label=Visitantes&labelColor=%23007ec6&countColor=%23263759)
-  ![Visualizações do Perfil](https://komarev.com/ghpvc/?username=GustavoSanchesPavani&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil)
+  ![Visitas](https://api.visitorbadge.io/api/visitors?path=GustavoSanchesPavani&label=Visitantes&labelColor=%23007ec6&countColor=%23263759)
   
 </div>
 
