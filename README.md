@@ -173,16 +173,6 @@ _"Programar é no mínimo tão difícil quanto desenvolver uma teoria matemátic
 
 <div align="center">
 
-### 🐍 Veja minhas contribuições sendo devoradas pela cobrinha!  
-
-![snake gif](https://github.com/GustavoSanchesPavani/GustavoSanchesPavani/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
 ### 💡 "Código é como humor.  Quando você tem que explicar, é ruim." – Cory House
 
 ### ⭐️ De [GustavoSanchesPavani](https://github.com/GustavoSanchesPavani) com 💙
